@@ -1,14 +1,15 @@
 ### Kullanılan kütüphaneler
-* tkinter
-* requests
-* bs4
-
-### Açıklama:
-Bu uygulama döviz (dolar, euro, sterlin, altın) değerlerini görebileceğiniz bir uygulamadır.
+* pygame
+* random
+* time
 
 ### Örnek Resimler
 
-![](https://github.com/Hamza-Eren/Foreign-Exchange-App/blob/main/screenshot/app.png)
-> `Uygulama Ekranı`
+![](https://github.com/Hamza-Eren/Snake-Game/blob/main/screenshot/start.png)
+> `Başlangıç Ekranı`
 
->  `Döviz biriminin arka plan rengi yükseliş veya düşüşüne göre belirlenir.`
+![](https://github.com/Hamza-Eren/Snake-Game/blob/main/screenshot/game.png)
+> `Oyun Ekranı`
+
+![](https://github.com/Hamza-Eren/Snake-Game/blob/main/screenshot/end.png)
+> `Oyun Sonu Ekranı`
