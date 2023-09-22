@@ -14,7 +14,7 @@
 > `Oyun Sonu Ekranı`
 
 ### Kullanılan Renkler
-* Score(yellow) : (255, 255, 180)
-* Snake(green) : (0, 250, 0)
-* End Message(red) : (252, 20, 20)
-* Food(red) : (252, 60, 90)
+* Score   : (255, 255, 180)
+* Snake   : (0, 250, 0)
+* Message : (252, 20, 20)
+* Food    : (252, 60, 90)
